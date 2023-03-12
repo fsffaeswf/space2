@@ -1,0 +1,6 @@
+﻿  main.cpp
+G:\C++\шаг\space\player.h(43,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\C++\шаг\space\player.h(44,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\C++\шаг\space\game.h(28,28): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+G:\C++\шаг\space\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  space.vcxproj -> G:\C++\шаг\space\x64\Debug\space.exe

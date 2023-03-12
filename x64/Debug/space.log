@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Лиан\space\bdsgbsagag-main\player.h(44,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\bdsgbsagag-main\player.h(45,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\space\bdsgbsagag-main\game.h(33,28): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\space\bdsgbsagag-main\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  space.vcxproj -> D:\Лиан\space\x64\Debug\space.exe
